@@ -59,8 +59,7 @@ if __name__ == '__main__':
     print('6',six)
     print('7',seven)
     print('8',eight)
-    print('9',nine) 
-    print('10',ten)        
+    print('9',nine)       
             
         
         
